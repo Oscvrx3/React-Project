@@ -1,0 +1,25 @@
+/* This is going to be used for any modified/custom styling */
+/* This is for the Index page */
+.container-hero{
+    width:100%;
+    background-image: url("https://brand.campaign.adidas.com/Images/football-fw17-GlitchCLP-MastheadB-glitch-desktop_tcm66-179466.jpg?locale=en_US&device=mobile&version=2");
+    height:100vh;
+    text-align:center;
+    color:white;
+}
+.hero h1{
+    padding-top:40vh;
+}
+
+.container {
+    width: 100%;
+    height: auto;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    justify-content: space-evenly;
+    align-items: row;
+}
+
+/*This is for the Products page*/
+
